@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/mebel-promo/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/mebel-promo/static/js/main.a20f764e.chunk.js",
-    "main.js.map": "/mebel-promo/static/js/main.a20f764e.chunk.js.map",
+    "main.js": "/mebel-promo/static/js/main.f6b413e2.chunk.js",
+    "main.js.map": "/mebel-promo/static/js/main.f6b413e2.chunk.js.map",
     "runtime-main.js": "/mebel-promo/static/js/runtime-main.2b2d5e9e.js",
     "runtime-main.js.map": "/mebel-promo/static/js/runtime-main.2b2d5e9e.js.map",
-    "static/js/2.ab9451d8.chunk.js": "/mebel-promo/static/js/2.ab9451d8.chunk.js",
-    "static/js/2.ab9451d8.chunk.js.map": "/mebel-promo/static/js/2.ab9451d8.chunk.js.map",
+    "static/js/2.4d648dd6.chunk.js": "/mebel-promo/static/js/2.4d648dd6.chunk.js",
+    "static/js/2.4d648dd6.chunk.js.map": "/mebel-promo/static/js/2.4d648dd6.chunk.js.map",
     "static/js/3.d424fe78.chunk.js": "/mebel-promo/static/js/3.d424fe78.chunk.js",
     "static/js/3.d424fe78.chunk.js.map": "/mebel-promo/static/js/3.d424fe78.chunk.js.map",
     "index.html": "/mebel-promo/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/mebel-promo/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ab9451d8.chunk.js.LICENSE.txt": "/mebel-promo/static/js/2.ab9451d8.chunk.js.LICENSE.txt",
+    "static/js/2.4d648dd6.chunk.js.LICENSE.txt": "/mebel-promo/static/js/2.4d648dd6.chunk.js.LICENSE.txt",
     "static/media/imgpsh_fullsize_anim.952ddd96.jpg": "/mebel-promo/static/media/imgpsh_fullsize_anim.952ddd96.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b2d5e9e.js",
-    "static/js/2.ab9451d8.chunk.js",
+    "static/js/2.4d648dd6.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a20f764e.chunk.js"
+    "static/js/main.f6b413e2.chunk.js"
   ]
 }
